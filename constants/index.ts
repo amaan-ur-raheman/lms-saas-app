@@ -5,6 +5,15 @@ export const subjects = [
   "history",
   "coding",
   "economics",
+  "geography",
+  "art",
+  "music",
+  "philosophy",
+  "ai",
+  "data-science",
+  "digital-marketing",
+  "product-design",
+  "cybersecurity",
 ];
 
 export const subjectsColors = {
@@ -14,6 +23,15 @@ export const subjectsColors = {
   coding: "#FFC8E4",
   history: "#FFECC8",
   economics: "#C8FFDF",
+  geography: "#D4E4F9",
+  art: "#F9D4D4",
+  music: "#F9EED4",
+  philosophy: "#E0D4F9",
+  ai: "#C8F7FF",
+  "data-science": "#D6C8FF",
+  "digital-marketing": "#FFC8B4",
+  "product-design": "#B4FFD8",
+  cybersecurity: "#FFB4B4",
 };
 
 export const voices = {
