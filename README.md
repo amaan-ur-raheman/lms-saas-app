@@ -8,6 +8,12 @@
   <img src="public/readme/Home.png" alt="Project Screenshot" />
 </div>
 
+<!-- LIVE DEMO -->
+
+## 🌐 Live Demo
+
+Experience the application live: [https://lms-saas-app-git-main-amaans-projects-f2c35ea9.vercel.app](https://lms-saas-app-git-main-amaans-projects-f2c35ea9.vercel.app)
+
 <!-- ABOUT THE PROJECT -->
 
 ## 🚀 About The Project
